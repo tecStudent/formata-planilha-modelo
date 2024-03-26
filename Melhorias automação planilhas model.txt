@@ -1,0 +1,4 @@
+Melhorias automação planilhas modelos:
+
+- Uma forma de passar categoria_id para serviços automatica 
+- selecionar de profissionais serão ativos ou inativos 
